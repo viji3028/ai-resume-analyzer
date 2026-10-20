@@ -1,0 +1,7 @@
+
+job_title,required_skills,description
+Data Analyst,"python,sql,excel,power bi,statistics,pandas","Analyze data, clean datasets, prepare reports and build dashboards"
+Python Developer,"python,git,sql,apis","Develop Python applications, work with databases and build APIs"
+Web Developer,"html,css,javascript,git","Create responsive websites and interactive web applications"
+Machine Learning Engineer,"python,machine learning,numpy,pandas,statistics","Build machine learning models and process datasets"
+Data Science Intern,"python,sql,pandas,numpy,statistics","Explore datasets, perform analysis and support predictive modelling"
