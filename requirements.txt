@@ -1,5 +1,7 @@
 streamlit
 pandas
+plotly
 scikit-learn
 PyMuPDF
-plotly
+pypdf
+reportlab
